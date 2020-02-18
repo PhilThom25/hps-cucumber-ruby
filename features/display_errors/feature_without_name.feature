@@ -11,3 +11,7 @@ Feature:
   Scenario: Message "Fill beans" is displayed after 39 coffees are taken
     When I take "39" coffees
     Then message "Fill beans" should be displayed
+
+  Scenario:
+    When I take "39" coffees
+    Then message "Fill beans" should be displayed
