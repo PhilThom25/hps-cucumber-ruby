@@ -1,4 +1,5 @@
 Feature: Bad usage
+xxxx
 
   As a lazy coffee user
   I can ignore the message displayed by the machine
